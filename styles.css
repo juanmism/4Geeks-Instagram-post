@@ -9,6 +9,10 @@ body {
 }
 .head {
     display: flex;
+    justify-content: space-between;
+}
+.head1 {
+    display: flex;
 }
 .headText {
     font-family:'Times New Roman', Times, serif
@@ -26,13 +30,21 @@ body {
 }
 .elipsis {
     margin-top: 20px;
-    margin-left: 360px;
+    margin-right: 15px;
     font-size: 30px;  
 }
 .icons {
+    display: flex;
+    justify-content: space-between;
+}
+.icons-1 {
     margin-top: 20px;
-    margin-right: 10px;
     margin-left: 20px;
+    font-size: 30px;
+}
+.icons-2 {
+    margin-top: 20px;
+    margin-right: 15px;
     font-size: 30px;
 }
 .thirdIcon {
