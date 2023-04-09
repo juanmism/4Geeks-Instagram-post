@@ -1,6 +1,6 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) The Instagram Post
 
-![screenshot](https://raw.githubusercontent.com/juanmism/4Geeks-Instagram-post/main/screenshot_preview.png)
+![screenshot](https://github.com/juanmism/4Geeks-Instagram-post/blob/main/screenshot.JPG)
 
 ✏ *Create the HTML and CSS needed to replicate **<https://raw.githubusercontent.com/breatheco-de/exercise-instagram-post/master/preview.png>***.
 
